@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02 21:40:13",
+  "last_updated": "2026-03-02 23:06:02",
   "contests": [
     {
       "platform": "AtCoder",
@@ -245,13 +245,6 @@
       "start_time": "2026-02-22 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-490"
-    },
-    {
-      "platform": "Codeforces",
-      "name": "Kotlin Heroes: Practice 14",
-      "start_time": "2026-02-21 22:30:00",
-      "duration": "216小时0分钟",
-      "url": "https://codeforces.com/contest/2198"
     },
     {
       "platform": "luogu",
