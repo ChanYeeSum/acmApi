@@ -6,6 +6,20 @@ function showMenu(e) {
   menus.classList.remove("hidden");
 }
 
+function showToast(message) {
+            console.log("do")
+            duration = 3000;
+            const container = document.getElementById('toast-container');
+            const toast = document.createElement('div');
+            toast.className = 'toast';
+            toast.textContent = message;
+            container.appendChild(toast);
+
+            setTimeout(() => {
+            container.removeChild(toast);
+            }, duration + 500); // 延迟移除，确保动画完成
+}
+  
 function hideMenu(event) {
   const menus = contextMenu.getInstance();
   menus.classList.add("hidden");
