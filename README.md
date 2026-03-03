@@ -2,7 +2,8 @@
 
 一个现代化的编程竞赛日历网页应用，帮助竞赛爱好者追踪各大平台的比赛信息。
 
-> 🎉 2025-08-24 更新：新增邮件提醒系统！现在可以通过 GitHub Actions 实现每日比赛信息推送。
+> 🎉 2025-08-24 更新：新增邮件提醒系统！现在可以通过 GitHub Actions 实现每日比赛信息推送。  
+> 从acmApi更名为CodeCal
 
 ## 预览 👀
 
@@ -49,7 +50,7 @@
 
 | 平台 Logo | 平台 | 说明 | 官网 |
 |-----------|------|------|------|
-| ![Codeforces](icons/codeforces.png =600x) | Codeforces | 全球最大的竞赛平台 | [访问](https://codeforces.com) |
+| ![Codeforces](icons/codeforces.png) | Codeforces | 全球最大的竞赛平台 | [访问](https://codeforces.com) |
 | ![AtCoder](icons/atcoder.png) | AtCoder | 日本顶级竞赛平台 | [访问](https://atcoder.jp) |
 | ![LeetCode](icons/leetcode.png) | LeetCode | 算法题库和竞赛平台 | [访问](https://leetcode.com) |
 | ![牛客网](icons/nowcoder.png) | 牛客网 | 综合竞赛和面试平台 | [访问](https://www.nowcoder.com) |
