@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08 12:56:38",
+  "last_updated": "2026-03-08 14:02:50",
   "contests": [
     {
       "platform": "AtCoder",
@@ -280,13 +280,6 @@
       "start_time": "2026-02-22 10:30:00",
       "duration": "1小时30分钟",
       "url": "https://leetcode.com/contest/weekly-contest-490"
-    },
-    {
-      "platform": "luogu",
-      "name": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1",
-      "start_time": "2026-02-21 14:00:00",
-      "duration": "4小时30分钟",
-      "url": "https://www.luogu.com.cn/contest/299754"
     }
   ]
 }
